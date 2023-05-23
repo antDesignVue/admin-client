@@ -14,7 +14,7 @@
     1. 可忽略勾选操作
     2. 必须使用框架现有table组件
     3. 至少实现不低于一项筛选项，不使用接口，前端进行筛选
-```aidl
+```
 接口地址： src/mock/index
 接口处理： src/api/module/dashboard
 页面实现路由：/dashboard/console

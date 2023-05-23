@@ -281,7 +281,6 @@ import { Chart } from "@antv/g2";
 import { ArrowUpOutlined, ArrowDownOutlined } from "@ant-design/icons-vue";
 import { onMounted, ref, onUnmounted } from "vue";
 import { useStore } from 'vuex';
-import { companyCount } from "../../api/module/dashboard"
 export default {
   components: {
     ArrowUpOutlined,
@@ -294,11 +293,6 @@ export default {
 
 
     onMounted(async () => {
-      const a = await companyCount({
-        pageNo: 3,
-        pageSize: 32
-      })
-      console.log(a, "======12")
       const datass = [
         { year: "1951 年", sales: 38 },
         { year: "1952 年", sales: 52 },

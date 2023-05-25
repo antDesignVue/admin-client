@@ -19,4 +19,5 @@
 接口处理： src/api/module/dashboard
 页面实现路由：/dashboard/console
 ```
-      
+
+完成之后发送项目压缩包至：wangting@uconcern.com 格式为：姓名+岗位+日期 如：张三+前端+2023-05-21

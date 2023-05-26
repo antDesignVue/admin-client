@@ -4,7 +4,7 @@
 <img src="./src/assets/image/img.png" alt="Pear Admin Ant Version">
 
 
-#### 注意：必须使用vue3 + ts 
+#### 注意：必须使用vue3 + ts, 使用当前框架实现以下功能
 
 要求：
 - 企业总数，车辆总数，从业人员总数，安全员总数上方模块需提取组件，再进行数据渲染
@@ -20,4 +20,4 @@
 页面实现路由：/dashboard/console
 ```
 
-完成之后发送项目压缩包至：wangting@uconcern.com 格式为：姓名+岗位+日期 如：张三+前端+2023-05-21
+完成之后发送项目压缩包至：wangting@uconcern.com 格式为：姓名（联系方式）+岗位+日期 如：张三（13123458888）+前端+2023-05-21

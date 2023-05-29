@@ -18,6 +18,7 @@
 接口地址： src/mock/index
 接口处理： src/api/module/dashboard
 页面实现路由：/dashboard/console
+table组件：src/component/table
 ```
 
 完成之后发送项目压缩包至：wangting@uconcern.com 格式为：姓名（联系方式）+岗位+日期 如：张三（13123458888）+前端+2023-05-21
